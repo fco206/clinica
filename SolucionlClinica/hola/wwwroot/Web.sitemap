@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="index.aspx" title="Inicio"  description="">
+        <siteMapNode url="webs/lclinico.aspx" title="Laboratorio Clinico"  description="" />
+        
+      <siteMapNode url="webs/smedico.aspx" title="Staff Medico"  description="" />
+      
+      <siteMapNode url="webs/historia.aspx" title="Historia" description="">
+        <siteMapNode url="webs/mision.aspx" title="Misión" description="" />
+        <siteMapNode url="webs/vision.aspx" title="Visión" description="" />
+      </siteMapNode>
+      
+      <siteMapNode url="webs/contacto.aspx" title="Contactenos" description="" />
+    </siteMapNode>
+</siteMap>
